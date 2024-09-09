@@ -1,8 +1,8 @@
 Website Name : Travelo
 
-Live Link : https://travelobd.netlify.app
+Live Link : https://tourtravello.netlify.app/
 
-Server Code : https://github.com/mdrieadmia/Travelo-Server.git
+Server Code : https://github.com/SanjidaOSD/Travelo-website-server.git
 
 This website showcases tourist spots across Southeast Asia. Users can browse through various destinations and view details of each spot. To add a new tourist spot, users need to be logged in. Logged-in users can also view detailed information about each spot. In the "My List" section, users can see all the spots they have added, with options to update or delete any spot from their list. The website is designed to be fully responsive, ensuring an optimal experience on mobile, tablet, and desktop devices.
 
@@ -35,25 +35,3 @@ This website showcases tourist spots across Southeast Asia. Users can browse thr
 
 ✅ Swiper Slider
 
-
--------------- Steps For Locally Run This Code --------------
-
-Step - 1
- 
-Clone the repository : 
-git clone https://github.com/mdrieadmia/Travelo-Client.git
-
-Step - 2
- 
-Navigate to the project directory : 
-cd repository-name
-
-Step - 3
- 
-Install dependencies : 
-npm install
-
-Step - 4
- 
-Run the development server : 
-npm run dev
